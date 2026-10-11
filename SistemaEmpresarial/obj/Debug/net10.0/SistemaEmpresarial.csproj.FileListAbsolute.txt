@@ -1,0 +1,355 @@
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\appsettings.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.staticwebassets.endpoints.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.exe
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.deps.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.runtimeconfig.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.pdb
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ChilliCream.Nitro.App.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.EntityFramework.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.Primitives.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.AspNetCore.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.AspNetCore.Pipeline.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Authorization.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Caching.Memory.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.CostAnalysis.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Data.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Configuration.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Operation.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Pipeline.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Projections.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Features.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Fusion.Language.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Fusion.Utilities.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Utf8.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Utf8.SyntaxTree.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Visitors.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Web.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.PersistedOperations.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.PersistedOperations.Pipeline.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Primitives.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Subscriptions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Text.Json.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Transport.Formatters.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Transport.Sockets.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.Extensions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Errors.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Mutations.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Queries.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Buffers.Text.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Buffers.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.DependencyInjection.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.Tasks.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Validation.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Humanizer.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Npgsql.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.IO.Hashing.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Yarp.ReverseProxy.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.csproj.AssemblyReference.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.AssemblyInfoInputs.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.AssemblyInfo.cs
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.csproj.CoreCompileInputs.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\scopedcss\bundle\SistemaEmpresarial.styles.css
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaE.9E16B7BE.Up2Date
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\refint\SistemaEmpresarial.dll
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.pdb
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.genruntimeconfig.cache
+C:\Users\surik\Downloads\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\ref\SistemaEmpresarial.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\appsettings.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.staticwebassets.endpoints.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.exe
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.deps.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.runtimeconfig.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\SistemaEmpresarial.pdb
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ChilliCream.Nitro.App.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.EntityFramework.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\GreenDonut.Data.Primitives.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.AspNetCore.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.AspNetCore.Pipeline.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Authorization.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Caching.Memory.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.CostAnalysis.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Data.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Configuration.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Operation.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Pipeline.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Execution.Projections.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Features.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Fusion.Language.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Fusion.Utilities.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Utf8.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Utf8.SyntaxTree.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Visitors.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Language.Web.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.PersistedOperations.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.PersistedOperations.Pipeline.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Primitives.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Subscriptions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Text.Json.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Transport.Formatters.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Transport.Sockets.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.CursorPagination.Extensions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Errors.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Mutations.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Queries.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Buffers.Text.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Buffers.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.DependencyInjection.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Utilities.Tasks.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\HotChocolate.Validation.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Npgsql.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\System.IO.Hashing.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\Yarp.ReverseProxy.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.AssemblyInfo.cs
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\scopedcss\bundle\SistemaEmpresarial.styles.css
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaE.9E16B7BE.Up2Date
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\refint\SistemaEmpresarial.dll
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.pdb
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\SistemaEmpresarial.genruntimeconfig.cache
+C:\Users\Marco\Documents\Escuela\Desarrollo BackEnd\Unidad 2\Act 3\dado\Act3-Heidi Peña\Act4_Dia1_Cuentas_Conceptos\SistemaEmpresarial\obj\Debug\net10.0\ref\SistemaEmpresarial.dll
