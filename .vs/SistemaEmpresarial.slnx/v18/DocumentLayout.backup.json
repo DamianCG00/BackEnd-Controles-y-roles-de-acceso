@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Dia1_Cuentas_Conceptos\\",
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Damian CG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|c:\\users\\marco\\documents\\escuela\\desarrollo backend\\unidad 2\\act 3\\dado\\act3-heidi pe\u00F1a\\act4_dia1_cuentas_conceptos\\sistemaempresarial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|c:\\users\\marco\\documents\\escuela\\desarrollo backend\\unidad 2\\act 3\\dado\\act3-heidi pe\u00F1a\\act4_damian cg\\sistemaempresarial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|solutionrelative:sistemaempresarial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|c:\\users\\marco\\documents\\escuela\\desarrollo backend\\unidad 2\\act 3\\dado\\act3-heidi pe\u00F1a\\act4_dia1_cuentas_conceptos\\sistemaempresarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|c:\\users\\marco\\documents\\escuela\\desarrollo backend\\unidad 2\\act 3\\dado\\act3-heidi pe\u00F1a\\act4_damian cg\\sistemaempresarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004D8A35-1C06-9833-6A0F-E8E1F5616D73}|SistemaEmpresarial\\SistemaEmpresarial.csproj|solutionrelative:sistemaempresarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Dia1_Cuentas_Conceptos\\SistemaEmpresarial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Damian CG\\SistemaEmpresarial\\Program.cs",
               "RelativeDocumentMoniker": "SistemaEmpresarial\\Program.cs",
-              "ToolTip": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Dia1_Cuentas_Conceptos\\SistemaEmpresarial\\Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Damian CG\\SistemaEmpresarial\\Program.cs",
               "RelativeToolTip": "SistemaEmpresarial\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T23:45:24.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T23:45:24.865Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Dia1_Cuentas_Conceptos\\SistemaEmpresarial\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Damian CG\\SistemaEmpresarial\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaEmpresarial\\appsettings.json",
-              "ToolTip": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Dia1_Cuentas_Conceptos\\SistemaEmpresarial\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Escuela\\Desarrollo BackEnd\\Unidad 2\\Act 3\\dado\\Act3-Heidi Pe\u00F1a\\Act4_Damian CG\\SistemaEmpresarial\\appsettings.json",
               "RelativeToolTip": "SistemaEmpresarial\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
